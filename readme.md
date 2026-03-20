@@ -52,7 +52,7 @@ Navigate to the plugin folder:
 cd src/plugins/faq-ai-bot
 ```
 
-Replace or update the plugin files (plugin.ts, controllers, services, etc.) with your custom FAQ AI bot logic.
+Replace the plugin folder files with this repo's files(all of them).
 
 ### 4. Install Dependencies
 
@@ -64,7 +64,7 @@ npm install
 
 ### 5. Build the Plugin
 
-Inside the plugin directory:
+Inside the plugin directory(need not run if no changes made):
 
 ```bash
 npm run build
