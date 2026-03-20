@@ -2,7 +2,8 @@
 
    
 ## 📦 Setup Instructions
-
+    
+     
 ### 1. Create a Strapi Project
 
 Run the following command to create a new Strapi app:
