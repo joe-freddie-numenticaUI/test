@@ -121,9 +121,9 @@ src/plugins/faq-ai-bot/
 - Add the following code to your config/plugins.ts file:
   ```bash
   export default {
-  'faq-ai-bot': {
-    enabled: true,
-    resolve: 'src/plugins/faq-ai-bot'
-  },
-}
+     'faq-ai-bot': {
+       enabled: true,
+       resolve: 'src/plugins/faq-ai-bot'
+     },
+   }
   ```
