@@ -4,16 +4,6 @@ This README explains how to set up and use the `faq-ai-bot` plugin in your Strap
 
 ---
 
-## 🚀 Prerequisites
-
-Make sure you have:
-
-- Node.js (v18+ recommended)
-- npm or yarn
-- A working internet connection
-
----
-
 ## 📦 Setup Instructions
 
 ### 1. Create a Strapi Project
