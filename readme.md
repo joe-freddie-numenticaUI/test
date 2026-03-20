@@ -1,7 +1,5 @@
 # FAQ AI Bot Plugin for Strapi
 
-This README explains how to set up and use the `faq-ai-bot` plugin in your Strapi project.
-
 ---
 
     
