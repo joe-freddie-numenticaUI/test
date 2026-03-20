@@ -127,3 +127,5 @@ src/plugins/faq-ai-bot/
      },
    }
   ```
+
+  ---
