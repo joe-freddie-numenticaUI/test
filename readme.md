@@ -4,7 +4,6 @@
 > **Compatibility:** Strapi **v5 only** (requires `@strapi/strapi ^5.0.0`).
 > Node.js **>=18** is required.
 > This plugin is **not compatible with Strapi v4**
-
 <br>
 
 ## 📦 Setup Instructions (Developer Setup)
