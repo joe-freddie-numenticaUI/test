@@ -4,8 +4,6 @@ An AI-powered FAQ chatbot plugin for Strapi. Drop it into any Strapi project and
 
 <br>
 
----
-
 ## Requirements
 
 - Node.js `>=18.0.0`
