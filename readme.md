@@ -2,8 +2,6 @@
 
 An AI-powered FAQ chatbot plugin for Strapi. Drop it into any Strapi project and get an intelligent FAQ assistant in your admin panel.
 
-<br>
-
 ---
 
 ## Requirements
