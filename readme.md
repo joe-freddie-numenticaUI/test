@@ -5,8 +5,6 @@
 > Node.js **>=18** is required.
 > This plugin is **not compatible with Strapi v4**.
  
-<br>
- 
 ---
 
 ## 📦 Setup Instructions (Developer Setup)
