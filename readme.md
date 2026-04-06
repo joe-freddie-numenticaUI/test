@@ -25,7 +25,7 @@ cd (my-strapi-project)
   
 ### 2. Create the Plugin
 
-Initialize the plugin using the Strapi SDK:
+Initialize the plugin using the Strapi SDK:       
 ⚠️ Note : Don't change the plugin name.
 
 ```bash
