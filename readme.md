@@ -9,6 +9,7 @@ An AI-powered FAQ chatbot plugin for Strapi. Drop it into any Strapi project and
 - Node.js `>=18.0.0`
 - Strapi `^5.0.0` (**Strapi v5 only** — not compatible with Strapi v4)
 
+###⚠️ Note : To test the chatbot API, you can use the [nui-strapi-chatbot-react](https://www.npmjs.com/package/nui-strapi-chatbot-react) package as a simple frontend UI.
 ---
 
 ## 📦 Installation
@@ -17,13 +18,13 @@ Pick your package manager:
 
 ```bash
 # npm
-npm install strapi-plugin-faq-ai-bot@latest
+npm install nui-strapi-chatbot-plugin@latest
 
 # yarn
-yarn add strapi-plugin-faq-ai-bot@latest
+yarn add nui-strapi-chatbot-plugin@latest
 
 # pnpm
-pnpm add strapi-plugin-faq-ai-bot@latest
+pnpm add nui-strapi-chatbot-plugin@latest
 ```
 
 ---
@@ -65,13 +66,13 @@ pnpm develop
 
 ```bash
 # npm
-npm install strapi-plugin-faq-ai-bot@latest
+npm install nui-strapi-chatbot-plugin@latest
 
 # yarn
-yarn add strapi-plugin-faq-ai-bot@latest
+yarn add nui-strapi-chatbot-plugin@latest
 
 # pnpm
-pnpm add strapi-plugin-faq-ai-bot@latest
+pnpm add nui-strapi-chatbot-plugin@latest
 ```
 
 Then rebuild and restart:
