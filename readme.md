@@ -7,8 +7,9 @@ An AI-powered FAQ chatbot plugin for Strapi. Drop it into any Strapi project and
 
 ## Requirements
 
-- Node.js `>=18.0.0`
-- Strapi `^5.0.0` (**Strapi v5 only** — not compatible with Strapi v4)
+[![Node.js >= 18](https://img.shields.io/badge/Node.js-%3E%3D%2018-green.svg)](https://nodejs.org/)
+[![Strapi >= 5](https://img.shields.io/badge/Strapi-%3E%3D%205-blue.svg)](https://strapi.io/)
+
 
 ---
 
